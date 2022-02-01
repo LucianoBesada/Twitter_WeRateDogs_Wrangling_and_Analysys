@@ -1,4 +1,4 @@
-## [Data wrangling, cleaning, analysis and visualization on WeRateDogs Twiter](https://github.com/LucianoBesada/Twitter_WeRateDogs_Wrangling_and_Analysys/blob/main/wrangle_act.ipynb)
+# [Data wrangling, cleaning, analysis and visualization on WeRateDogs Twiter](https://github.com/LucianoBesada/Twitter_WeRateDogs_Wrangling_and_Analysys/blob/main/wrangle_act.ipynb)
 
 Project developed using three main different sources:
 1. File on hand: "twitter-archive-enhanced.csv"
