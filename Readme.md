@@ -1,19 +1,16 @@
-## Data wrangling, cleaning, analysis and visualization on WeRateDogs Twiter
+## [Data wrangling, cleaning, analysis and visualization on WeRateDogs Twiter](https://github.com/LucianoBesada/Twitter_WeRateDogs_Wrangling_and_Analysys/blob/main/wrangle_act.ipynb)
 
 Project developed using three main different sources:
 1. File on hand: "twitter-archive-enhanced.csv"
 2. File programmatically downloaded from the Internet: "image-predictions.tsv"
 3. Data from Twitter API: "tweet_json"
 
-For security reasons, credentials on how to access the data on Twitter API are not shared.
+The aim is to be able to answer the followings:
+- What dog breeds have the most number of likes among Twitter users?
+- What pictures of dog breeds have been most shared among Twitter users?
+- How do Twitter users refer most to their dogs?
+- Is there any particular attribute or object that makes a dog popular among Twitter users?¶
 
-### Packages installed and used
+For security reasons, credentials on how to access the data on _Twitter API_ are not shared.
 
-- pandas                             1.0.3              
-- pandas-profiling                   1.4.1 
-- numpy                              1.18.1 
-- requests                           2.23.0
-- tweepy                             3.9.0 
-- ujson                              1.35
-- matplotlib                         3.1.3
-- seaborn                            0.10.1
+See the Report [Here](https://github.com/LucianoBesada/Twitter_WeRateDogs_Wrangling_and_Analysys/blob/main/wrangle_act.ipynb)
